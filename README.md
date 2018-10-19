@@ -1,3 +1,3 @@
-# HelloWorld
-create a  new test project
-java SE test
+# JAVA SE Example
+create a  new java project
+
